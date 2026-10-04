@@ -1,0 +1,14 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "~6.0.2"
+  },
+  "dependencies": {
+    "@types/bun": "^1.4.0",
+    "@types/node": "^26.4.1",
+    "sharp": "^0.35.4"
+  }
+}
